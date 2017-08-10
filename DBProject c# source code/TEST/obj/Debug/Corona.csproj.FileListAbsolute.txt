@@ -1,0 +1,3 @@
+C:\Users\rlaeh\Documents\Visual Studio 2013\Projects\TEST\TEST\bin\Debug\TEST.exe.config
+C:\Users\rlaeh\Documents\Visual Studio 2013\Projects\TEST\TEST\obj\Debug\TEST.exe
+C:\Users\rlaeh\Documents\Visual Studio 2013\Projects\TEST\TEST\obj\Debug\TEST.pdb
